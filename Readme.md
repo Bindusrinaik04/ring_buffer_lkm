@@ -12,8 +12,8 @@
 #### Step 1:
 Creating the Shell file and executing it.
 > gedit ring_buffer.sh
->chmod +x ring_buffer.sh
->sudo ./ring_buffer.sh
+> chmod +x ring_buffer.sh
+> sudo ./ring_buffer.sh
 
 #### step 2:
 Inside the ring_buffer_module directory creating an d editing the source files
